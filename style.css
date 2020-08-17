@@ -1,25 +1,24 @@
 .logo {
-    margin: 0;
-    position: absolute;
-    top: 35%;
-    left: 39%;
+    display: block;
+    margin: auto 50%;
+    transform: translateX(-50%);
+    padding: 5px;
+
+}
+
+.search {
+  text-align: center;
 }
 
 .searchbar {
-    width: 25%;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 35.5%;
     font-family: "Lucida Console", Monaco, monospace
 }
 
 .searchbutton {
-    margin: 0;
-    position: absolute;
-    top: 55%;
-    left: 43.6%;
     font-family: "Lucida Console", Monaco, monospace
+}
+
+.main {
 }
 
 .topnav {
@@ -55,7 +54,10 @@
   footer {
       position: absolute;
       bottom: 1%;
-      left: 40%;
       font-size: smaller;
       opacity: 50%;
+  }
+
+  div {
+    margin: 0 auto;
   }
