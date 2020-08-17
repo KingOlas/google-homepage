@@ -1,0 +1,61 @@
+.logo {
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 39%;
+}
+
+.searchbar {
+    width: 25%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 35.5%;
+    font-family: "Lucida Console", Monaco, monospace
+}
+
+.searchbutton {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 43.6%;
+    font-family: "Lucida Console", Monaco, monospace
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e900;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(0, 0, 255);
+  }
+  
+  .topnav a.active {
+    background-color: #4bf321;
+    color: white;
+  }
+
+  body {
+    margin: 0;
+    font-family: "Lucida Console", Monaco, monospace
+  }
+
+  footer {
+      position: absolute;
+      bottom: 1%;
+      left: 40%;
+      font-size: smaller;
+      opacity: 50%;
+  }
