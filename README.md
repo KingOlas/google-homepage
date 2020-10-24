@@ -1,1 +1,1 @@
-This is a second attempt to create the Google Homepage.
+tHys iS a 3eRd aTtempt @ tHe gOogle hOmepAge
